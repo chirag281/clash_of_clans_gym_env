@@ -3,6 +3,7 @@
 https://github.com/user-attachments/assets/862b62fd-7b7d-4d0c-b528-bf6e511c788d
 
 
+<img width="1817" height="987" alt="Screenshot 2025-11-10 012848" src="https://github.com/user-attachments/assets/129824a0-6042-4e63-8003-a6a972ebb59e" />
 
 A custom OpenAI Gym environment and Pygame GUI for simulating Clash of Clans–style attack mechanics, combined with a Proximal Policy Optimization (PPO) agent (via Stable-Baselines3) to learn optimal attacking strategies.
 
