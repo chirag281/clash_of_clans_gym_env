@@ -1,5 +1,9 @@
 # Clash of Clans Gymnasium Environment
 
+https://github.com/user-attachments/assets/862b62fd-7b7d-4d0c-b528-bf6e511c788d
+
+
+
 A custom OpenAI Gym environment and Pygame GUI for simulating Clash of Clans–style attack mechanics, combined with a Proximal Policy Optimization (PPO) agent (via Stable-Baselines3) to learn optimal attacking strategies.
 
 ---
